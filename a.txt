@@ -1,2 +1,2 @@
 Adding the line-1
-line-2 branch added
+This is line-2
