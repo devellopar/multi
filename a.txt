@@ -4,3 +4,4 @@ line-3 of feature branch
 line-4 of feature branch
 line-5 of feature-branch
 line-6 of feature-branch
+line-7 of main branch
